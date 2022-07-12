@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-<h2 align="center">Spam Classification</h3>
+<h1 align="center">Spam Classification</h3>
 
 [![MIT License][license-shield]][license-url]
 ![Contributors][contri-shield]
@@ -18,7 +18,28 @@
 </div>
 
 
-
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 # Spam Classification
 Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
