@@ -43,7 +43,7 @@ To run the app, complete the following steps:
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
-[contri-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/Spam-Classification-Flask
 
 [license-shield]: https://img.shields.io/github/license/DeepKariaX/Spam-Classification-Flask
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
