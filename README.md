@@ -9,8 +9,7 @@
 
 
   <p align="center">
-    <br />
-    <a href="https://github.com/MaharshPatelX/CareAtHome">View Demo</a>
+    <a href="https://github.com/DeepKariaX/Spam-Classification-Flask">View Demo</a>
     ·
     <a href="https://github.com/DeepKariaX/Spam-Classification-Flask/issues">Report Bug</a>
     ·
