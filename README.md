@@ -20,38 +20,51 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Product Name Screen Shot][product-screenshot]
 
-CareAtHome contains all types of feature such as user can order medicine, user can also buy/rent surgical items such as gatch bad etc, take appointment of doctor also take appointment of lab to take test reports, book caretaker , medical and surgical items will be delivered by delivery person also so user will not have any problem, user can also maintain all types history such as all types of reports. 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [HTML](https://html.com/)
-* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
-* [JavaScript](https://www.javascript.com/)
-* [PHP](https://www.php.net/)
-* [MYSQL](https://www.mysql.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-# Spam Classification
 Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
 
 Naive Bayes classifiers are a popular statistical strategy for e-mail filtering. They commonly use a bag of words feature to identify spam e-mail. As a consequence, we'll build a rudimentary message classifier using the Naive Bayes theory.
 
-## Prerequisites:
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+### Built With
+
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/)
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [JavaScript](https://www.javascript.com/)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+## Getting Started
+
+### Prerequisites
+
 Make sure that you have the following:
 -  Python 3+ and pip (which comes with Python 3+)
 -  sklearn
 -  pandas
 -  flask
 -  An environment to work in - something like Jupyter or Spyder
+
+<!-- # Spam Classification
+Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
+
+Naive Bayes classifiers are a popular statistical strategy for e-mail filtering. They commonly use a bag of words feature to identify spam e-mail. As a consequence, we'll build a rudimentary message classifier using the Naive Bayes theory. -->
+
+<!-- ## Prerequisites:
+Make sure that you have the following:
+-  Python 3+ and pip (which comes with Python 3+)
+-  sklearn
+-  pandas
+-  flask
+-  An environment to work in - something like Jupyter or Spyder -->
 
 ## Running the App
 To run the app, complete the following steps:
