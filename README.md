@@ -1,11 +1,12 @@
 
+<br />
+<div align="center">
+<h3 align="center">Spam Classification</h3>
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Size][size-shield]][size-url]
 
-<br />
-<div align="center">
-<h3 align="center">Spam Classification</h3>
 
   <p align="center">
     <br />
