@@ -46,5 +46,5 @@ To run the app, complete the following steps:
 [license-shield]: https://img.shields.io/github/license/DeepKariaX/Spam-Classification-Flask
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
-[size-shield] : https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask
+[size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask
 [size-url]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask
