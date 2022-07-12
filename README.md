@@ -18,28 +18,27 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+CareAtHome contains all types of feature such as user can order medicine, user can also buy/rent surgical items such as gatch bad etc, take appointment of doctor also take appointment of lab to take test reports, book caretaker , medical and surgical items will be delivered by delivery person also so user will not have any problem, user can also maintain all types history such as all types of reports. 
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+### Built With
+
+* [HTML](https://html.com/)
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+* [JavaScript](https://www.javascript.com/)
+* [PHP](https://www.php.net/)
+* [MYSQL](https://www.mysql.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 # Spam Classification
 Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
@@ -69,3 +68,5 @@ To run the app, complete the following steps:
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
 [size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask
+
+[product-screenshot]: Media/Spam_Classifier_Home.png
