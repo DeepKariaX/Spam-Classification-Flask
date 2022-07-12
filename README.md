@@ -4,8 +4,8 @@
 <h2 align="center">Spam Classification</h3>
 
 [![MIT License][license-shield]][license-url]
-[![Contributors][contri-shield]]
-[![Size][size-shield]]
+![Contributors][contri-shield]
+![Size][size-shield]
 
 
   <p align="center">
