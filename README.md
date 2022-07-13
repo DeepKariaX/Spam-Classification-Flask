@@ -4,7 +4,7 @@
 <h1 align="center">Spam Classification</h3>
 
 [![MIT License][license-shield]][license-url]
-![Languages][language-shield]
+[Languages][language-shield]
 ![Contributors][contri-shield]
 ![Size][size-shield]
 ![Issues][issues-shield]
