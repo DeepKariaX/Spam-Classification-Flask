@@ -4,10 +4,10 @@
 <h1 align="center">Spam Classification</h3>
 
 [![MIT License][license-shield]][license-url]
-![Languages][language-shield]
+[![Languages][language-shield]][language-url]
 [![Contributors][contri-shield]][contri-url]
-![Size][size-shield]
-![Issues][issues-shield]
+[![Size][size-shield]][size-url]
+[![Issues][issues-shield]][issues-url]
 
 
   <p align="center">
@@ -96,9 +96,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
 [size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[size-url]: #
 
 [issues-shield]: https://img.shields.io/github/issues/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[issues-url]: #
 
 [language-shield]: https://img.shields.io/github/languages/count/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+[language-url]: #
 
 [product-screenshot]: Media/Spam_Classifier_Home.png
