@@ -6,6 +6,7 @@
 [![MIT License][license-shield]][license-url]
 ![Contributors][contri-shield]
 ![Size][size-shield]
+![Issues][issues-shield]
 
 
   <p align="center">
@@ -83,6 +84,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
@@ -92,5 +94,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
 [size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
+
+[issues-shield]: https://img.shields.io/github/issues/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
 
 [product-screenshot]: Media/Spam_Classifier_Home.png
