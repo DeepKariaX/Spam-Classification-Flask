@@ -86,11 +86,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
 
-[contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/Spam-Classification-Flask
+[contri-shield]: https://img.shields.io/github/contributors/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
 
-[license-shield]: https://img.shields.io/github/license/DeepKariaX/Spam-Classification-Flask
+[license-shield]: https://img.shields.io/github/license/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
 [license-url]: https://github.com/DeepKariaX/Spam-Classification-Flask/blob/main/LICENSE.txt
 
-[size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask
+[size-shield]: https://img.shields.io/github/repo-size/DeepKariaX/Spam-Classification-Flask?style=for-the-badge
 
 [product-screenshot]: Media/Spam_Classifier_Home.png
