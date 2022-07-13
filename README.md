@@ -53,24 +53,35 @@ Make sure that you have the following:
 -  flask
 -  An environment to work in - something like Jupyter or Spyder
 
-<!-- # Spam Classification
-Spam, or unwanted commercial or mass e-mail, has recently become a major issue on the internet. Spam is a waste of time, storage space, and data transfer capacity.
+### Installation :
 
-Naive Bayes classifiers are a popular statistical strategy for e-mail filtering. They commonly use a bag of words feature to identify spam e-mail. As a consequence, we'll build a rudimentary message classifier using the Naive Bayes theory. -->
 
-<!-- ## Prerequisites:
-Make sure that you have the following:
--  Python 3+ and pip (which comes with Python 3+)
--  sklearn
--  pandas
--  flask
--  An environment to work in - something like Jupyter or Spyder -->
+1. Clone the repo
+   ```sh
+   git clone https://github.com/DeepKariaX/Spam-Classification-Flask
+   ```
+2. Install Python packages
+   ```sh
+    pip install flask
+    pip install scikit_learn
+    pip install pandas
+    ```
 
-## Running the App
-To run the app, complete the following steps:
-1. Make sure you have Python 3 and a text editor installed.
-2. Install the required packages using `pip install -r requirements.txt`.
-3. Run Spam_Classifier_Main.py and a link will be shown copy the link in browser and open. (Example: http://127.0.0.1:5000/)
+    OR
+
+   ```sh
+    pip install -r requirements.txt
+    ```
+3. Run Spam_Classifier_Main File
+   ```sh
+    python Spam_Classifier_Main.py
+    ```
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/deep-karia-2436b2194/ -->
